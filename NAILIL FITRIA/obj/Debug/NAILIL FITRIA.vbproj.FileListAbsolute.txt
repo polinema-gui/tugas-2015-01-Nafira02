@@ -1,0 +1,10 @@
+c:\users\nafira\documents\visual studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\bin\Debug\NAILIL FITRIA.exe.config
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\bin\Debug\NAILIL FITRIA.exe
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\bin\Debug\NAILIL FITRIA.pdb
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\bin\Debug\NAILIL FITRIA.xml
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\obj\Debug\NAILIL_FITRIA.Picture_Form1.resources
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\obj\Debug\NAILIL_FITRIA.Resources.resources
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\obj\Debug\NAILIL FITRIA.vbproj.GenerateResource.Cache
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\obj\Debug\NAILIL FITRIA.exe
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\obj\Debug\NAILIL FITRIA.xml
+C:\Users\NAFIRA\Documents\Visual Studio 2012\Projects\NAILIL FITRIA\NAILIL FITRIA\obj\Debug\NAILIL FITRIA.pdb
